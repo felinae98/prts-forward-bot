@@ -1,5 +1,5 @@
 # prts
-**!!本项目不在维护，请移步隔壁更加通用的订阅插件https://github.com/felinae98/nonebot-hk-reporter**
+**!!本项目不再维护，请移步隔壁更加通用的订阅插件https://github.com/felinae98/nonebot-hk-reporter**
 ## How to start
 
 1. generate project using `nb create` .
